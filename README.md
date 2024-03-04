@@ -1,5 +1,5 @@
 # Flag Finder Project
-This project is part of a machine learning course focused on employing the Decision Tree algorithm to create a predictive model. Utilizing the information of [Flags](https://archive.ics.uci.edu/dataset/40/flags) dataset, this model is designed to classify from which continent a description of a flag comes from. Our approach involves data processing, model training using the datasets, and hyperparameter tuning. By experimenting with various values for depth and ccp_alpha, we focus on improving the model's accuracy.
+This project is focused on employing the Decision Tree algorithm to create a predictive model, applying learnings from a machine learning course. Utilizing the information of [Flags](https://archive.ics.uci.edu/dataset/40/flags) dataset, this model is designed to classify from which continent a description of a flag comes from. Our approach involves data processing, model training using the datasets, and hyperparameter tuning. By experimenting with various values for depth and ccp_alpha, we focus on improving the model's accuracy.
 
 ## Features
 - Model Training: Utilizes training and testing datasets to develop and improve the model, ensuring its performance.
